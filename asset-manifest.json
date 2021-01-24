@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SALT/static/css/main.1dd160d4.chunk.css",
-    "main.js": "/SALT/static/js/main.ff38695d.chunk.js",
-    "main.js.map": "/SALT/static/js/main.ff38695d.chunk.js.map",
-    "runtime-main.js": "/SALT/static/js/runtime-main.f0bbc46e.js",
-    "runtime-main.js.map": "/SALT/static/js/runtime-main.f0bbc46e.js.map",
-    "static/js/2.81381ca5.chunk.js": "/SALT/static/js/2.81381ca5.chunk.js",
-    "static/js/2.81381ca5.chunk.js.map": "/SALT/static/js/2.81381ca5.chunk.js.map",
-    "index.html": "/SALT/index.html",
-    "static/css/main.1dd160d4.chunk.css.map": "/SALT/static/css/main.1dd160d4.chunk.css.map",
-    "static/js/2.81381ca5.chunk.js.LICENSE.txt": "/SALT/static/js/2.81381ca5.chunk.js.LICENSE.txt",
-    "static/media/salt-cover.2bc7f903.jpg": "/SALT/static/media/salt-cover.2bc7f903.jpg"
+    "main.css": "/static/css/main.1dd160d4.chunk.css",
+    "main.js": "/static/js/main.ff38695d.chunk.js",
+    "main.js.map": "/static/js/main.ff38695d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53462467.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53462467.js.map",
+    "static/js/2.81381ca5.chunk.js": "/static/js/2.81381ca5.chunk.js",
+    "static/js/2.81381ca5.chunk.js.map": "/static/js/2.81381ca5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1dd160d4.chunk.css.map": "/static/css/main.1dd160d4.chunk.css.map",
+    "static/js/2.81381ca5.chunk.js.LICENSE.txt": "/static/js/2.81381ca5.chunk.js.LICENSE.txt",
+    "static/media/salt-cover.2bc7f903.jpg": "/static/media/salt-cover.2bc7f903.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0bbc46e.js",
+    "static/js/runtime-main.53462467.js",
     "static/js/2.81381ca5.chunk.js",
     "static/css/main.1dd160d4.chunk.css",
     "static/js/main.ff38695d.chunk.js"
